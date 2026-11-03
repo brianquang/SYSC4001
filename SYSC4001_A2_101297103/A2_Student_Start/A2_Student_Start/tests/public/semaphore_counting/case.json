@@ -1,0 +1,5 @@
+{
+  "name": "Semaphore initial permits and reuse",
+  "args": ["--mode", "semaphore_count", "--initial", "3", "--delay-ms", "40"],
+  "hint": "Each successful wait consumes exactly one permit, and each post adds exactly one."
+}

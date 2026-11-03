@@ -1,0 +1,7 @@
+{
+  "name": "Round Robin quantum expiration",
+  "input": "input.csv",
+  "algorithm": "rr",
+  "quantum": 2,
+  "context_switch": 1
+}

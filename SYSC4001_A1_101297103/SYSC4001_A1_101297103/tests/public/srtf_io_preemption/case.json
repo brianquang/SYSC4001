@@ -1,0 +1,7 @@
+{
+  "name": "SRTF preemption after a shorter process returns from I/O",
+  "input": "input.csv",
+  "algorithm": "srtf",
+  "quantum": 2,
+  "context_switch": 0
+}

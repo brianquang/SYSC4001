@@ -1,0 +1,5 @@
+{
+  "name": "Queue capacity one",
+  "args": ["--mode", "queue", "--producers", "2", "--consumers", "2", "--jobs", "30", "--capacity", "1"],
+  "hint": "A capacity-one queue exposes code that waits while holding the queue guard or publishes a permit too early."
+}

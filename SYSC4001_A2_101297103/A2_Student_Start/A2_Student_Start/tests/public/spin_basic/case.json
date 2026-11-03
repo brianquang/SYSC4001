@@ -1,0 +1,5 @@
+{
+  "name": "Spinlock basic contention",
+  "args": ["--mode", "spin", "--threads", "2", "--operations", "20000"],
+  "hint": "Check that test-and-set claims the flag atomically and unlock clears it with release ordering."
+}

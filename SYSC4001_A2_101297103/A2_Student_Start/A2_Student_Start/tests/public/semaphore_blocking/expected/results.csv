@@ -1,0 +1,2 @@
+mode,expected_operations,observed_operations,violations,errors,blocked_before_release,expected_checksum,observed_checksum
+semaphore_block,4,4,0,0,4,0,0

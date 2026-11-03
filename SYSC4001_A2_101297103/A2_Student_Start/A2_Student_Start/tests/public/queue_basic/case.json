@@ -1,0 +1,5 @@
+{
+  "name": "Bounded queue with two producers and consumers",
+  "args": ["--mode", "queue", "--producers", "2", "--consumers", "2", "--jobs", "40", "--capacity", "4"],
+  "hint": "Reserve a free slot or item before taking the queue guard, then publish the opposite resource after updating FIFO metadata."
+}

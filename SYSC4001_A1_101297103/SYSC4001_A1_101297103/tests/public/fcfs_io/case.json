@@ -1,0 +1,7 @@
+{
+  "name": "FCFS with overlapping I/O",
+  "input": "input.csv",
+  "algorithm": "fcfs",
+  "quantum": 2,
+  "context_switch": 1
+}

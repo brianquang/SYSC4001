@@ -1,0 +1,2 @@
+mode,expected_operations,observed_operations,violations,errors,blocked_before_release,expected_checksum,observed_checksum
+spin,40000,40000,0,0,0,0,0

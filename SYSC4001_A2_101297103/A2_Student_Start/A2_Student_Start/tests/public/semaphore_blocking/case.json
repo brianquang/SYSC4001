@@ -1,0 +1,5 @@
+{
+  "name": "Semaphore blocks until posts",
+  "args": ["--mode", "semaphore_block", "--waiters", "4", "--delay-ms", "40"],
+  "hint": "A zero-count wait must sleep in a predicate loop; post changes the count while holding the same mutex."
+}

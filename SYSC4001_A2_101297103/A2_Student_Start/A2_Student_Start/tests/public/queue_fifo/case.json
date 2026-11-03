@@ -1,0 +1,5 @@
+{
+  "name": "Queue FIFO order and wraparound",
+  "args": ["--mode", "queue_fifo", "--jobs", "12", "--capacity", "4"],
+  "hint": "Check that head and tail advance modulo capacity and that take removes the oldest submitted job."
+}

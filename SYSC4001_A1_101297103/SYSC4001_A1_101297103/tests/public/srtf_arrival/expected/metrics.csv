@@ -1,0 +1,4 @@
+pid,arrival_time,completion_time,turnaround_time,waiting_time,response_time
+1,0,16,16,8,1
+2,2,8,6,3,3
+3,3,4,1,0,0

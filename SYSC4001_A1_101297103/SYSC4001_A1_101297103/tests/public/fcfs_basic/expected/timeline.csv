@@ -1,0 +1,7 @@
+start,end,activity,pid
+0,1,CONTEXT_SWITCH,
+1,4,CPU,1
+4,5,CONTEXT_SWITCH,
+5,7,CPU,2
+7,8,CONTEXT_SWITCH,
+8,9,CPU,3

@@ -1,0 +1,7 @@
+{
+  "name": "SRTF does not preempt on an equal-remaining-time I/O return",
+  "input": "input.csv",
+  "algorithm": "srtf",
+  "quantum": 2,
+  "context_switch": 0
+}

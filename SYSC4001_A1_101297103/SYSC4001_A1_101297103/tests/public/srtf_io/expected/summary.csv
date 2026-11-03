@@ -1,0 +1,2 @@
+process_count,makespan,cpu_busy_time,context_switch_time,idle_time,cpu_utilization,throughput,average_turnaround,average_waiting,average_response
+3,14,14,0,0,100.00,0.2143,9.00,3.67,3.00
